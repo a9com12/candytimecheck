@@ -1,5 +1,3 @@
-# Momentum - Nomad
+# Candy-Time 
 
-Momentum Nomad Updated.
-
-Javascript
+Make your day more productivity with Candy-timecheck ! 
